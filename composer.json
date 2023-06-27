@@ -1,0 +1,37 @@
+{
+  "name": "scrapingapi/php-client",
+  "version": "0.0.1",
+  "description": "The official PHP client for ScrapingApi.",
+  "homepage": "https://github.com/scrapingapi/php-client",
+  "keywords": [
+    "api",
+    "puppeteer",
+    "proxy",
+    "convert",
+    "render",
+    "capture",
+    "webpage",
+    "scraping",
+    "provider",
+    "facade",
+    "scraping",
+    "browser",
+    "headless",
+    "responsive",
+    "retina",
+    "phantomjs",
+    "laravel",
+    "thumbnail",
+    "website",
+    "preview",
+    "thumbnails"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Timothée Jeannin",
+      "email": "tjeannin@scrapingapi.net",
+      "role": "Developer"
+    }
+  ]
+}
